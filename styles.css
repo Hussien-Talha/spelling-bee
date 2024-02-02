@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #game-container {
+    text-align: center;
+  }
+  
+  #word-display {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #user-input {
+    font-size: 16px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  #check-btn {
+    font-size: 16px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
